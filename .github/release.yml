@@ -1,0 +1,19 @@
+# .github/release.yml
+
+changelog:
+  categories:
+    - title: Features & Improvements
+      labels:
+        - epic
+        - 'type: refactoring'
+    - title: Breaking Changes
+      labels:
+        - 'type: breaking'
+    - title: Bug & Security Fixes
+      labels:
+        - 'type: bug'
+        - 'type: security'
+    - title: Known Issues
+      labels:
+        - 'type: bug'
+        - 'priority: high'
