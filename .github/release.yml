@@ -1,5 +1,9 @@
 # .github/release.yml
 
+### Release goal
+
+#### This version adds / fixes... (Manual)
+
 changelog:
   categories:
     - title: Features & Improvements
