@@ -1,5 +1,9 @@
 # .github/release.yml
 
+### Release goal
+
+#### This version adds / fixes... (Manual)
+
 changelog:
   categories:
     - title: Features & Improvements
@@ -14,5 +18,6 @@ changelog:
         - 'type: bug'
         - 'type: security'
     - title: Known Issues
+      labels:
         - 'type: bug'
         - 'priority: high'
